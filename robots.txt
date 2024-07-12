@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-google-site-verification=Btu4hT90nkl91bw5jVHrNA-7nThb1wqvBNuqGaxpbCg
